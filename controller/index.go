@@ -14,7 +14,6 @@ const styleConfigJson = "{\"alignment\": {\"horizontal\": \"center\",\"vertical\
 
 //  标题样式，水平垂直居中，字体16号 颜色 红色
 const fontJson = "{\"alignment\": {\"horizontal\": \"center\",\"vertical\": \"center\"},\"font\":{\"size\":16,\"color\":\"#ff4d4d\"}}"
-
 const importFileUrl = "controller/Book1.xlsx"
 const outPutFileUrl = "controller/Book1.xlsx"
 
